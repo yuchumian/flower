@@ -1,0 +1,7 @@
+#
+./dist
+./flower-water/node_modules
+./flower-water/.vscode
+./flower-water/package-lock.json
+.idea
+.DS_Store
